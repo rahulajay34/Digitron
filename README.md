@@ -78,7 +78,7 @@
 
   <h1>1.  Dashboard Page  </h1><br><br>
   
-![Home 1](https://github.com/rahulajay34/Digitron/assets/119413894/240e7321-acf0-4b82-ade7-7cb3d02c4f50)
+![Home 1](./assets/248553671-240e7321-acf0-4b82-ade7-7cb3d02c4f50.png)
 
 ![home 2](https://github.com/rahulajay34/Digitron/assets/119413894/7266b728-b1a8-441e-8a59-56dd4779641e)
 
