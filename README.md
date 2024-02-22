@@ -80,29 +80,29 @@
   
 ![Home 1](./assets/248553671-240e7321-acf0-4b82-ade7-7cb3d02c4f50.png)
 
-![home 2](https://github.com/rahulajay34/Digitron/assets/119413894/7266b728-b1a8-441e-8a59-56dd4779641e)
+![home 2](./assets/248553693-7266b728-b1a8-441e-8a59-56dd4779641e.png)
 
   <h1>2. Register  </h1>
   <br><br>
   
-  ![register](https://github.com/rahulajay34/Digitron/assets/119413894/387cee2c-00a1-4f23-a9e6-a78158c0747b)
+  ![register](./assets/248553731-387cee2c-00a1-4f23-a9e6-a78158c0747b.png)
 
   <h1>3. Login  </h1>
   <br><br>
   
-  ![login](https://github.com/rahulajay34/Digitron/assets/119413894/f467659f-44e1-4471-b3f2-d8512e563ac0)
+  ![login](./assets/248553754-f467659f-44e1-4471-b3f2-d8512e563ac0.png)
 
   <h1>4. Digital Interview  </h1>
   <br><br>
   
-  ![image](https://github.com/rahulajay34/Digitron/assets/119413894/6f2e3e85-1020-46d9-8173-655022911ee3)
+  ![image](./assets/248553893-6f2e3e85-1020-46d9-8173-655022911ee3.png)
 
   <h1>5.Study Materials </h1>
   <br><br>
   
-  ![image](https://github.com/rahulajay34/Digitron/assets/119413894/1d7748c1-f4db-4c7c-b564-1e4e14025949)
+  ![image](./assets/248553935-1d7748c1-f4db-4c7c-b564-1e4e14025949.png)
 
   <h1>6. Q&A with us </h1>
   <br><br>
   
-  ![image](https://github.com/rahulajay34/Digitron/assets/248554040-ffe73661-96eb-49f6-a4b1-cae5f88b239d)
+  ![image](./assets/248554040-ffe73661-96eb-49f6-a4b1-cae5f88b239d.png)
