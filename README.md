@@ -105,4 +105,4 @@
   <h1>6. Q&A with us </h1>
   <br><br>
   
-  ![image](https://github.com/rahulajay34/Digitron/assets/119413894/ffe73661-96eb-49f6-a4b1-cae5f88b239d)
+  ![image](https://github.com/rahulajay34/Digitron/assets/248554040-ffe73661-96eb-49f6-a4b1-cae5f88b239d)
